@@ -1,4 +1,4 @@
-uftwfdotfiles
+mintdotfiles
 =============
 
 This is a backup of my dot files.
@@ -7,7 +7,7 @@ This is a great and easy way to backup your .files.  I like to use this so I hav
 
 The best way to use this is to do a 
 
-    git clone git@github.com:JohnathanMarkSmith/uftwfdotfiles.git
+    git clone git@github.com:JohnathanMarkSmith/mintdotfiles.git
     
 into your ~Documents/dotfiles.
 
@@ -28,3 +28,6 @@ and now run ./makesymlinks.sh
 Now change the remote server to your git repo so can have a backups of your work
 
     git remote set-url origin ssh://newhost.com/usr/local/gitroot/myproject.git
+
+(c)2014
+
